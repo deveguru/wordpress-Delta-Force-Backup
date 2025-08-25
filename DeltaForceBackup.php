@@ -4,7 +4,8 @@ Plugin Name: Delta Backup
 Description: Advanced file backup and management system for WordPress
 Version: 1.0.0
 Author: Alireza Fatemi
-Author URI: github.com/ftepic
+Author URI: https://alirezafatemi.ir
+Plugin URI: https://github.com/deveguru
 */
 
 if (!defined('ABSPATH')) {
